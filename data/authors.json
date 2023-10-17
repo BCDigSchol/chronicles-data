@@ -6,5 +6,6 @@
     "label": "",
     "gender": "Female",
     "nationality": "American",
+    "specificNationality": "",
     "nonPerson": false
 }]
