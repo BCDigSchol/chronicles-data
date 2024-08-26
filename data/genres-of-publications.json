@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "genreId": 3,
+    "publicationId": 2,
+    "notes": "",
+    "createdAt": "2024-08-15T18:55:06.000Z",
+    "updatedAt": "2024-08-15T18:55:06.000Z"
+  }
+]
