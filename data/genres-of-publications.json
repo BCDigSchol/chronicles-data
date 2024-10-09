@@ -1,9 +1,1 @@
-[
-  {
-    "genreId": 3,
-    "publicationId": 2,
-    "notes": "",
-    "createdAt": "2024-08-15T18:55:06.000Z",
-    "updatedAt": "2024-08-15T18:55:06.000Z"
-  }
-]
+[{"genreId":3,"publicationId":2,"notes":"","createdAt":"2024-08-26T16:02:42.000Z","updatedAt":"2024-08-26T16:02:42.000Z"},{"genreId":4,"publicationId":8,"notes":"","createdAt":"2024-10-02T14:47:44.000Z","updatedAt":"2024-10-02T14:47:44.000Z"},{"genreId":4,"publicationId":13,"notes":"","createdAt":"2024-10-02T14:59:31.000Z","updatedAt":"2024-10-02T14:59:31.000Z"},{"genreId":7,"publicationId":13,"notes":"","createdAt":"2024-10-02T14:59:31.000Z","updatedAt":"2024-10-02T14:59:31.000Z"},{"genreId":8,"publicationId":9,"notes":"","createdAt":"2024-10-02T14:52:49.000Z","updatedAt":"2024-10-02T14:52:49.000Z"}]
