@@ -1,1 +1,1402 @@
-[{"genreId":2,"publicationId":15,"notes":"","createdAt":"2025-01-19T03:09:37.000Z","updatedAt":"2025-01-19T03:09:37.000Z"},{"genreId":2,"publicationId":39,"notes":"","createdAt":"2025-01-18T23:05:37.000Z","updatedAt":"2025-01-18T23:05:37.000Z"},{"genreId":2,"publicationId":63,"notes":"","createdAt":"2025-01-18T03:26:12.000Z","updatedAt":"2025-01-18T03:26:12.000Z"},{"genreId":2,"publicationId":87,"notes":"","createdAt":"2025-01-12T14:44:34.000Z","updatedAt":"2025-01-12T14:44:34.000Z"},{"genreId":2,"publicationId":123,"notes":"","createdAt":"2025-01-10T19:51:31.000Z","updatedAt":"2025-01-10T19:51:31.000Z"},{"genreId":2,"publicationId":128,"notes":"","createdAt":"2025-01-10T19:34:54.000Z","updatedAt":"2025-01-10T19:34:54.000Z"},{"genreId":2,"publicationId":139,"notes":"","createdAt":"2025-01-10T19:00:39.000Z","updatedAt":"2025-01-10T19:00:39.000Z"},{"genreId":2,"publicationId":162,"notes":"","createdAt":"2025-01-09T04:43:14.000Z","updatedAt":"2025-01-09T04:43:14.000Z"},{"genreId":2,"publicationId":168,"notes":"","createdAt":"2025-01-09T04:25:53.000Z","updatedAt":"2025-01-09T04:25:53.000Z"},{"genreId":3,"publicationId":2,"notes":"","createdAt":"2024-10-09T12:39:41.000Z","updatedAt":"2024-10-09T12:39:41.000Z"},{"genreId":3,"publicationId":16,"notes":"","createdAt":"2025-01-19T03:06:15.000Z","updatedAt":"2025-01-19T03:06:15.000Z"},{"genreId":3,"publicationId":17,"notes":"","createdAt":"2025-01-19T03:03:36.000Z","updatedAt":"2025-01-19T03:03:36.000Z"},{"genreId":3,"publicationId":28,"notes":"","createdAt":"2025-01-19T02:42:40.000Z","updatedAt":"2025-01-19T02:42:40.000Z"},{"genreId":3,"publicationId":30,"notes":"","createdAt":"2025-01-19T02:39:11.000Z","updatedAt":"2025-01-19T02:39:11.000Z"},{"genreId":3,"publicationId":31,"notes":"","createdAt":"2025-01-19T02:37:56.000Z","updatedAt":"2025-01-19T02:37:56.000Z"},{"genreId":3,"publicationId":34,"notes":"","createdAt":"2025-01-19T02:23:22.000Z","updatedAt":"2025-01-19T02:23:22.000Z"},{"genreId":3,"publicationId":42,"notes":"","createdAt":"2025-01-18T04:49:34.000Z","updatedAt":"2025-01-18T04:49:34.000Z"},{"genreId":3,"publicationId":43,"notes":"","createdAt":"2025-01-18T04:48:43.000Z","updatedAt":"2025-01-18T04:48:43.000Z"},{"genreId":3,"publicationId":45,"notes":"","createdAt":"2025-01-18T04:44:59.000Z","updatedAt":"2025-01-18T04:44:59.000Z"},{"genreId":3,"publicationId":46,"notes":"","createdAt":"2025-01-18T04:41:43.000Z","updatedAt":"2025-01-18T04:41:43.000Z"},{"genreId":3,"publicationId":48,"notes":"","createdAt":"2025-01-18T04:40:14.000Z","updatedAt":"2025-01-18T04:40:14.000Z"},{"genreId":3,"publicationId":52,"notes":"","createdAt":"2025-01-18T04:31:05.000Z","updatedAt":"2025-01-18T04:31:05.000Z"},{"genreId":3,"publicationId":54,"notes":"","createdAt":"2025-01-18T03:51:06.000Z","updatedAt":"2025-01-18T03:51:06.000Z"},{"genreId":3,"publicationId":55,"notes":"","createdAt":"2025-01-18T03:48:17.000Z","updatedAt":"2025-01-18T03:48:17.000Z"},{"genreId":3,"publicationId":56,"notes":"","createdAt":"2025-01-18T03:45:56.000Z","updatedAt":"2025-01-18T03:45:56.000Z"},{"genreId":3,"publicationId":57,"notes":"","createdAt":"2025-01-18T03:42:58.000Z","updatedAt":"2025-01-18T03:42:58.000Z"},{"genreId":3,"publicationId":64,"notes":"","createdAt":"2025-01-18T03:23:27.000Z","updatedAt":"2025-01-18T03:23:27.000Z"},{"genreId":3,"publicationId":65,"notes":"","createdAt":"2025-01-18T03:20:40.000Z","updatedAt":"2025-01-18T03:20:40.000Z"},{"genreId":3,"publicationId":66,"notes":"","createdAt":"2025-01-18T03:17:09.000Z","updatedAt":"2025-01-18T03:17:09.000Z"},{"genreId":3,"publicationId":70,"notes":"","createdAt":"2025-01-18T03:05:35.000Z","updatedAt":"2025-01-18T03:05:35.000Z"},{"genreId":3,"publicationId":72,"notes":"","createdAt":"2025-01-12T15:19:40.000Z","updatedAt":"2025-01-12T15:19:40.000Z"},{"genreId":3,"publicationId":73,"notes":"","createdAt":"2025-01-12T15:16:24.000Z","updatedAt":"2025-01-12T15:16:24.000Z"},{"genreId":3,"publicationId":77,"notes":"","createdAt":"2025-01-12T15:06:56.000Z","updatedAt":"2025-01-12T15:06:56.000Z"},{"genreId":3,"publicationId":78,"notes":"","createdAt":"2025-01-12T15:04:13.000Z","updatedAt":"2025-01-12T15:04:13.000Z"},{"genreId":3,"publicationId":79,"notes":"","createdAt":"2025-01-12T15:01:50.000Z","updatedAt":"2025-01-12T15:01:50.000Z"},{"genreId":3,"publicationId":80,"notes":"","createdAt":"2025-01-12T15:00:07.000Z","updatedAt":"2025-01-12T15:00:07.000Z"},{"genreId":3,"publicationId":94,"notes":"","createdAt":"2025-01-12T14:29:03.000Z","updatedAt":"2025-01-12T14:29:03.000Z"},{"genreId":3,"publicationId":95,"notes":"","createdAt":"2025-01-12T14:27:25.000Z","updatedAt":"2025-01-12T14:27:25.000Z"},{"genreId":3,"publicationId":98,"notes":"","createdAt":"2025-01-11T03:03:58.000Z","updatedAt":"2025-01-11T03:03:58.000Z"},{"genreId":3,"publicationId":99,"notes":"","createdAt":"2025-01-11T03:00:29.000Z","updatedAt":"2025-01-11T03:00:29.000Z"},{"genreId":3,"publicationId":102,"notes":"","createdAt":"2025-01-11T02:55:03.000Z","updatedAt":"2025-01-11T02:55:03.000Z"},{"genreId":3,"publicationId":107,"notes":"","createdAt":"2025-01-11T02:44:36.000Z","updatedAt":"2025-01-11T02:44:36.000Z"},{"genreId":3,"publicationId":109,"notes":"","createdAt":"2025-01-11T02:40:44.000Z","updatedAt":"2025-01-11T02:40:44.000Z"},{"genreId":3,"publicationId":118,"notes":"","createdAt":"2025-01-10T20:01:04.000Z","updatedAt":"2025-01-10T20:01:04.000Z"},{"genreId":3,"publicationId":119,"notes":"","createdAt":"2025-01-10T19:59:09.000Z","updatedAt":"2025-01-10T19:59:09.000Z"},{"genreId":3,"publicationId":121,"notes":"","createdAt":"2025-01-10T19:55:26.000Z","updatedAt":"2025-01-10T19:55:26.000Z"},{"genreId":3,"publicationId":122,"notes":"","createdAt":"2025-01-10T19:53:54.000Z","updatedAt":"2025-01-10T19:53:54.000Z"},{"genreId":3,"publicationId":124,"notes":"","createdAt":"2025-01-10T19:48:47.000Z","updatedAt":"2025-01-10T19:48:47.000Z"},{"genreId":3,"publicationId":125,"notes":"","createdAt":"2025-01-10T19:46:43.000Z","updatedAt":"2025-01-10T19:46:43.000Z"},{"genreId":3,"publicationId":126,"notes":"","createdAt":"2025-01-10T19:43:01.000Z","updatedAt":"2025-01-10T19:43:01.000Z"},{"genreId":3,"publicationId":130,"notes":"","createdAt":"2025-01-10T19:26:48.000Z","updatedAt":"2025-01-10T19:26:48.000Z"},{"genreId":3,"publicationId":132,"notes":"","createdAt":"2025-01-10T19:22:51.000Z","updatedAt":"2025-01-10T19:22:51.000Z"},{"genreId":3,"publicationId":133,"notes":"","createdAt":"2025-01-10T19:20:22.000Z","updatedAt":"2025-01-10T19:20:22.000Z"},{"genreId":3,"publicationId":134,"notes":"","createdAt":"2025-01-10T19:18:58.000Z","updatedAt":"2025-01-10T19:18:58.000Z"},{"genreId":3,"publicationId":135,"notes":"","createdAt":"2025-01-10T19:16:06.000Z","updatedAt":"2025-01-10T19:16:06.000Z"},{"genreId":3,"publicationId":141,"notes":"","createdAt":"2025-01-10T18:54:37.000Z","updatedAt":"2025-01-10T18:54:37.000Z"},{"genreId":3,"publicationId":160,"notes":"","createdAt":"2025-01-09T04:49:17.000Z","updatedAt":"2025-01-09T04:49:17.000Z"},{"genreId":3,"publicationId":163,"notes":"","createdAt":"2025-01-09T04:41:37.000Z","updatedAt":"2025-01-09T04:41:37.000Z"},{"genreId":3,"publicationId":165,"notes":"","createdAt":"2025-01-09T04:36:12.000Z","updatedAt":"2025-01-09T04:36:12.000Z"},{"genreId":3,"publicationId":166,"notes":"","createdAt":"2025-01-09T04:33:32.000Z","updatedAt":"2025-01-09T04:33:32.000Z"},{"genreId":3,"publicationId":182,"notes":"","createdAt":"2025-01-09T03:32:49.000Z","updatedAt":"2025-01-09T03:32:49.000Z"},{"genreId":4,"publicationId":8,"notes":"","createdAt":"2024-10-09T12:39:41.000Z","updatedAt":"2024-10-09T12:39:41.000Z"},{"genreId":4,"publicationId":13,"notes":"","createdAt":"2024-10-09T12:39:41.000Z","updatedAt":"2024-10-09T12:39:41.000Z"},{"genreId":4,"publicationId":14,"notes":"","createdAt":"2025-01-19T03:11:24.000Z","updatedAt":"2025-01-19T03:11:24.000Z"},{"genreId":4,"publicationId":21,"notes":"","createdAt":"2025-01-19T02:53:44.000Z","updatedAt":"2025-01-19T02:53:44.000Z"},{"genreId":4,"publicationId":22,"notes":"","createdAt":"2025-01-19T02:52:08.000Z","updatedAt":"2025-01-19T02:52:08.000Z"},{"genreId":4,"publicationId":26,"notes":"","createdAt":"2025-01-19T02:45:45.000Z","updatedAt":"2025-01-19T02:45:45.000Z"},{"genreId":4,"publicationId":27,"notes":"","createdAt":"2025-01-19T02:44:10.000Z","updatedAt":"2025-01-19T02:44:10.000Z"},{"genreId":4,"publicationId":29,"notes":"","createdAt":"2025-01-19T02:40:14.000Z","updatedAt":"2025-01-19T02:40:14.000Z"},{"genreId":4,"publicationId":35,"notes":"","createdAt":"2025-01-19T02:20:42.000Z","updatedAt":"2025-01-19T02:20:42.000Z"},{"genreId":4,"publicationId":36,"notes":"","createdAt":"2025-01-18T23:12:39.000Z","updatedAt":"2025-01-18T23:12:39.000Z"},{"genreId":4,"publicationId":37,"notes":"","createdAt":"2025-01-18T23:11:20.000Z","updatedAt":"2025-01-18T23:11:20.000Z"},{"genreId":4,"publicationId":38,"notes":"","createdAt":"2025-01-18T23:09:22.000Z","updatedAt":"2025-01-18T23:09:22.000Z"},{"genreId":4,"publicationId":41,"notes":"","createdAt":"2025-01-18T23:03:24.000Z","updatedAt":"2025-01-18T23:03:24.000Z"},{"genreId":4,"publicationId":45,"notes":"","createdAt":"2025-01-18T04:42:56.000Z","updatedAt":"2025-01-18T04:42:56.000Z"},{"genreId":4,"publicationId":47,"notes":"","createdAt":"2025-01-18T04:38:25.000Z","updatedAt":"2025-01-18T04:38:25.000Z"},{"genreId":4,"publicationId":48,"notes":"","createdAt":"2025-01-18T04:36:46.000Z","updatedAt":"2025-01-18T04:36:46.000Z"},{"genreId":4,"publicationId":56,"notes":"","createdAt":"2025-01-18T03:45:52.000Z","updatedAt":"2025-01-18T03:45:52.000Z"},{"genreId":4,"publicationId":61,"notes":"","createdAt":"2025-01-18T03:32:04.000Z","updatedAt":"2025-01-18T03:32:04.000Z"},{"genreId":4,"publicationId":64,"notes":"","createdAt":"2025-01-18T03:23:22.000Z","updatedAt":"2025-01-18T03:23:22.000Z"},{"genreId":4,"publicationId":68,"notes":"","createdAt":"2025-01-18T03:10:50.000Z","updatedAt":"2025-01-18T03:10:50.000Z"},{"genreId":4,"publicationId":84,"notes":"","createdAt":"2025-01-12T14:50:42.000Z","updatedAt":"2025-01-12T14:50:42.000Z"},{"genreId":4,"publicationId":89,"notes":"","createdAt":"2025-01-12T14:40:13.000Z","updatedAt":"2025-01-12T14:40:13.000Z"},{"genreId":4,"publicationId":91,"notes":"","createdAt":"2025-01-12T14:36:53.000Z","updatedAt":"2025-01-12T14:36:53.000Z"},{"genreId":4,"publicationId":92,"notes":"","createdAt":"2025-01-12T14:34:02.000Z","updatedAt":"2025-01-12T14:34:02.000Z"},{"genreId":4,"publicationId":93,"notes":"","createdAt":"2025-01-12T14:31:00.000Z","updatedAt":"2025-01-12T14:31:00.000Z"},{"genreId":4,"publicationId":99,"notes":"","createdAt":"2025-01-11T03:00:23.000Z","updatedAt":"2025-01-11T03:00:23.000Z"},{"genreId":4,"publicationId":103,"notes":"","createdAt":"2025-01-11T02:52:10.000Z","updatedAt":"2025-01-11T02:52:10.000Z"},{"genreId":4,"publicationId":108,"notes":"","createdAt":"2025-01-11T02:43:00.000Z","updatedAt":"2025-01-11T02:43:00.000Z"},{"genreId":4,"publicationId":142,"notes":"","createdAt":"2025-01-09T05:12:29.000Z","updatedAt":"2025-01-09T05:12:29.000Z"},{"genreId":4,"publicationId":143,"notes":"","createdAt":"2025-01-09T05:10:36.000Z","updatedAt":"2025-01-09T05:10:36.000Z"},{"genreId":4,"publicationId":150,"notes":"","createdAt":"2025-01-09T04:55:28.000Z","updatedAt":"2025-01-09T04:55:28.000Z"},{"genreId":4,"publicationId":152,"notes":"","createdAt":"2025-01-19T03:57:42.000Z","updatedAt":"2025-01-19T03:57:42.000Z"},{"genreId":4,"publicationId":155,"notes":"","createdAt":"2025-01-19T03:45:36.000Z","updatedAt":"2025-01-19T03:45:36.000Z"},{"genreId":4,"publicationId":156,"notes":"","createdAt":"2025-01-19T03:41:11.000Z","updatedAt":"2025-01-19T03:41:11.000Z"},{"genreId":4,"publicationId":158,"notes":"","createdAt":"2025-01-19T03:27:52.000Z","updatedAt":"2025-01-19T03:27:52.000Z"},{"genreId":4,"publicationId":159,"notes":"","createdAt":"2025-01-09T04:52:37.000Z","updatedAt":"2025-01-09T04:52:37.000Z"},{"genreId":4,"publicationId":161,"notes":"","createdAt":"2025-01-09T04:47:59.000Z","updatedAt":"2025-01-09T04:47:59.000Z"},{"genreId":4,"publicationId":169,"notes":"","createdAt":"2025-01-09T04:23:26.000Z","updatedAt":"2025-01-09T04:23:26.000Z"},{"genreId":4,"publicationId":176,"notes":"","createdAt":"2025-01-09T03:54:41.000Z","updatedAt":"2025-01-09T03:54:41.000Z"},{"genreId":4,"publicationId":179,"notes":"","createdAt":"2025-01-09T03:41:53.000Z","updatedAt":"2025-01-09T03:41:53.000Z"},{"genreId":4,"publicationId":181,"notes":"","createdAt":"2025-01-09T03:35:50.000Z","updatedAt":"2025-01-09T03:35:50.000Z"},{"genreId":4,"publicationId":184,"notes":"","createdAt":"2025-01-09T03:21:14.000Z","updatedAt":"2025-01-09T03:21:14.000Z"},{"genreId":5,"publicationId":20,"notes":"","createdAt":"2025-01-19T02:54:55.000Z","updatedAt":"2025-01-19T02:54:55.000Z"},{"genreId":5,"publicationId":63,"notes":"","createdAt":"2025-01-18T03:26:06.000Z","updatedAt":"2025-01-18T03:26:06.000Z"},{"genreId":5,"publicationId":74,"notes":"","createdAt":"2025-01-12T15:12:39.000Z","updatedAt":"2025-01-12T15:12:39.000Z"},{"genreId":5,"publicationId":75,"notes":"","createdAt":"2025-01-12T15:10:42.000Z","updatedAt":"2025-01-12T15:10:42.000Z"},{"genreId":5,"publicationId":80,"notes":"","createdAt":"2025-01-12T15:00:02.000Z","updatedAt":"2025-01-12T15:00:02.000Z"},{"genreId":5,"publicationId":90,"notes":"","createdAt":"2025-01-12T14:39:01.000Z","updatedAt":"2025-01-12T14:39:01.000Z"},{"genreId":5,"publicationId":98,"notes":"","createdAt":"2025-01-11T03:03:53.000Z","updatedAt":"2025-01-11T03:03:53.000Z"},{"genreId":5,"publicationId":101,"notes":"","createdAt":"2025-01-11T02:56:44.000Z","updatedAt":"2025-01-11T02:56:44.000Z"},{"genreId":5,"publicationId":115,"notes":"","createdAt":"2025-01-10T20:06:26.000Z","updatedAt":"2025-01-10T20:06:26.000Z"},{"genreId":5,"publicationId":127,"notes":"","createdAt":"2025-01-10T19:41:30.000Z","updatedAt":"2025-01-10T19:41:30.000Z"},{"genreId":5,"publicationId":139,"notes":"","createdAt":"2025-01-10T19:00:30.000Z","updatedAt":"2025-01-10T19:00:30.000Z"},{"genreId":5,"publicationId":146,"notes":"","createdAt":"2025-01-09T05:04:23.000Z","updatedAt":"2025-01-09T05:04:23.000Z"},{"genreId":5,"publicationId":158,"notes":"","createdAt":"2025-01-19T03:28:07.000Z","updatedAt":"2025-01-19T03:28:07.000Z"},{"genreId":5,"publicationId":162,"notes":"","createdAt":"2025-01-09T04:43:08.000Z","updatedAt":"2025-01-09T04:43:08.000Z"},{"genreId":5,"publicationId":167,"notes":"","createdAt":"2025-01-09T04:29:59.000Z","updatedAt":"2025-01-09T04:29:59.000Z"},{"genreId":6,"publicationId":15,"notes":"","createdAt":"2025-01-19T03:09:32.000Z","updatedAt":"2025-01-19T03:09:32.000Z"},{"genreId":6,"publicationId":32,"notes":"","createdAt":"2025-01-19T02:35:54.000Z","updatedAt":"2025-01-19T02:35:54.000Z"},{"genreId":6,"publicationId":40,"notes":"","createdAt":"2025-01-18T23:04:31.000Z","updatedAt":"2025-01-18T23:04:31.000Z"},{"genreId":6,"publicationId":43,"notes":"","createdAt":"2025-01-18T04:47:33.000Z","updatedAt":"2025-01-18T04:47:33.000Z"},{"genreId":6,"publicationId":53,"notes":"","createdAt":"2025-01-18T04:29:04.000Z","updatedAt":"2025-01-18T04:29:04.000Z"},{"genreId":6,"publicationId":60,"notes":"","createdAt":"2025-01-18T03:34:36.000Z","updatedAt":"2025-01-18T03:34:36.000Z"},{"genreId":6,"publicationId":69,"notes":"","createdAt":"2025-01-18T03:08:36.000Z","updatedAt":"2025-01-18T03:08:36.000Z"},{"genreId":6,"publicationId":71,"notes":"","createdAt":"2025-01-18T03:00:24.000Z","updatedAt":"2025-01-18T03:00:24.000Z"},{"genreId":6,"publicationId":76,"notes":"","createdAt":"2025-01-12T15:08:19.000Z","updatedAt":"2025-01-12T15:08:19.000Z"},{"genreId":6,"publicationId":79,"notes":"","createdAt":"2025-01-12T15:01:44.000Z","updatedAt":"2025-01-12T15:01:44.000Z"},{"genreId":6,"publicationId":81,"notes":"","createdAt":"2025-01-12T14:57:37.000Z","updatedAt":"2025-01-12T14:57:37.000Z"},{"genreId":6,"publicationId":82,"notes":"","createdAt":"2025-01-12T14:56:44.000Z","updatedAt":"2025-01-12T14:56:44.000Z"},{"genreId":6,"publicationId":83,"notes":"","createdAt":"2025-01-12T14:52:22.000Z","updatedAt":"2025-01-12T14:52:22.000Z"},{"genreId":6,"publicationId":85,"notes":"","createdAt":"2025-01-12T14:47:52.000Z","updatedAt":"2025-01-12T14:47:52.000Z"},{"genreId":6,"publicationId":86,"notes":"","createdAt":"2025-01-12T14:46:10.000Z","updatedAt":"2025-01-12T14:46:10.000Z"},{"genreId":6,"publicationId":87,"notes":"","createdAt":"2025-01-12T14:44:27.000Z","updatedAt":"2025-01-12T14:44:27.000Z"},{"genreId":6,"publicationId":93,"notes":"","createdAt":"2025-01-12T14:31:05.000Z","updatedAt":"2025-01-12T14:31:05.000Z"},{"genreId":6,"publicationId":100,"notes":"","createdAt":"2025-01-11T02:58:26.000Z","updatedAt":"2025-01-11T02:58:26.000Z"},{"genreId":6,"publicationId":110,"notes":"","createdAt":"2025-01-11T02:37:27.000Z","updatedAt":"2025-01-11T02:37:27.000Z"},{"genreId":6,"publicationId":123,"notes":"","createdAt":"2025-01-10T19:51:25.000Z","updatedAt":"2025-01-10T19:51:25.000Z"},{"genreId":6,"publicationId":151,"notes":"","createdAt":"2025-01-19T04:00:48.000Z","updatedAt":"2025-01-19T04:00:48.000Z"},{"genreId":6,"publicationId":168,"notes":"","createdAt":"2025-01-09T04:25:45.000Z","updatedAt":"2025-01-09T04:25:45.000Z"},{"genreId":7,"publicationId":13,"notes":"","createdAt":"2024-10-09T12:39:41.000Z","updatedAt":"2024-10-09T12:39:41.000Z"},{"genreId":7,"publicationId":68,"notes":"","createdAt":"2025-01-18T03:11:05.000Z","updatedAt":"2025-01-18T03:11:05.000Z"},{"genreId":7,"publicationId":109,"notes":"","createdAt":"2025-01-11T02:38:56.000Z","updatedAt":"2025-01-11T02:38:56.000Z"},{"genreId":7,"publicationId":117,"notes":"","createdAt":"2025-01-10T20:03:15.000Z","updatedAt":"2025-01-10T20:03:15.000Z"},{"genreId":7,"publicationId":129,"notes":"","createdAt":"2025-01-10T19:29:13.000Z","updatedAt":"2025-01-10T19:29:13.000Z"},{"genreId":7,"publicationId":156,"notes":"","createdAt":"2025-01-19T03:43:05.000Z","updatedAt":"2025-01-19T03:43:05.000Z"},{"genreId":7,"publicationId":173,"notes":"","createdAt":"2025-01-09T04:03:35.000Z","updatedAt":"2025-01-09T04:03:35.000Z"},{"genreId":8,"publicationId":9,"notes":"","createdAt":"2024-10-09T12:39:41.000Z","updatedAt":"2024-10-09T12:39:41.000Z"},{"genreId":8,"publicationId":12,"notes":"","createdAt":"2025-01-19T03:15:37.000Z","updatedAt":"2025-01-19T03:15:37.000Z"},{"genreId":8,"publicationId":18,"notes":"","createdAt":"2025-01-19T03:01:52.000Z","updatedAt":"2025-01-19T03:01:52.000Z"},{"genreId":8,"publicationId":23,"notes":"","createdAt":"2025-01-19T02:51:06.000Z","updatedAt":"2025-01-19T02:51:06.000Z"},{"genreId":8,"publicationId":62,"notes":"","createdAt":"2025-01-18T03:30:14.000Z","updatedAt":"2025-01-18T03:30:14.000Z"},{"genreId":8,"publicationId":104,"notes":"","createdAt":"2025-01-11T02:49:58.000Z","updatedAt":"2025-01-11T02:49:58.000Z"},{"genreId":8,"publicationId":144,"notes":"","createdAt":"2025-01-09T05:09:01.000Z","updatedAt":"2025-01-09T05:09:01.000Z"},{"genreId":8,"publicationId":175,"notes":"","createdAt":"2025-01-09T03:56:59.000Z","updatedAt":"2025-01-09T03:56:59.000Z"},{"genreId":9,"publicationId":21,"notes":"","createdAt":"2025-01-19T02:53:49.000Z","updatedAt":"2025-01-19T02:53:49.000Z"},{"genreId":9,"publicationId":24,"notes":"","createdAt":"2025-01-19T02:49:48.000Z","updatedAt":"2025-01-19T02:49:48.000Z"},{"genreId":9,"publicationId":25,"notes":"","createdAt":"2025-01-19T02:47:13.000Z","updatedAt":"2025-01-19T02:47:13.000Z"},{"genreId":9,"publicationId":26,"notes":"","createdAt":"2025-01-19T02:45:50.000Z","updatedAt":"2025-01-19T02:45:50.000Z"},{"genreId":9,"publicationId":44,"notes":"","createdAt":"2025-01-18T04:46:08.000Z","updatedAt":"2025-01-18T04:46:08.000Z"},{"genreId":9,"publicationId":49,"notes":"","createdAt":"2025-01-18T04:34:22.000Z","updatedAt":"2025-01-18T04:34:22.000Z"},{"genreId":9,"publicationId":50,"notes":"","createdAt":"2025-01-18T04:33:33.000Z","updatedAt":"2025-01-18T04:33:33.000Z"},{"genreId":9,"publicationId":59,"notes":"","createdAt":"2025-01-18T03:38:08.000Z","updatedAt":"2025-01-18T03:38:08.000Z"},{"genreId":9,"publicationId":61,"notes":"","createdAt":"2025-01-18T03:32:12.000Z","updatedAt":"2025-01-18T03:32:12.000Z"},{"genreId":9,"publicationId":67,"notes":"","createdAt":"2025-01-18T03:14:15.000Z","updatedAt":"2025-01-18T03:14:15.000Z"},{"genreId":9,"publicationId":75,"notes":"","createdAt":"2025-01-12T15:10:50.000Z","updatedAt":"2025-01-12T15:10:50.000Z"},{"genreId":9,"publicationId":84,"notes":"","createdAt":"2025-01-12T14:50:47.000Z","updatedAt":"2025-01-12T14:50:47.000Z"},{"genreId":9,"publicationId":103,"notes":"","createdAt":"2025-01-11T02:52:49.000Z","updatedAt":"2025-01-11T02:52:49.000Z"},{"genreId":9,"publicationId":105,"notes":"","createdAt":"2025-01-11T02:48:11.000Z","updatedAt":"2025-01-11T02:48:11.000Z"},{"genreId":9,"publicationId":113,"notes":"","createdAt":"2025-01-10T20:14:24.000Z","updatedAt":"2025-01-10T20:14:24.000Z"},{"genreId":9,"publicationId":131,"notes":"","createdAt":"2025-01-10T19:24:22.000Z","updatedAt":"2025-01-10T19:24:22.000Z"},{"genreId":9,"publicationId":136,"notes":"","createdAt":"2025-01-10T19:13:07.000Z","updatedAt":"2025-01-10T19:13:07.000Z"},{"genreId":9,"publicationId":143,"notes":"","createdAt":"2025-01-09T05:10:43.000Z","updatedAt":"2025-01-09T05:10:43.000Z"},{"genreId":9,"publicationId":145,"notes":"","createdAt":"2025-01-09T05:06:55.000Z","updatedAt":"2025-01-09T05:06:55.000Z"},{"genreId":9,"publicationId":152,"notes":"","createdAt":"2025-01-19T03:57:47.000Z","updatedAt":"2025-01-19T03:57:47.000Z"},{"genreId":9,"publicationId":158,"notes":"","createdAt":"2025-01-19T03:32:18.000Z","updatedAt":"2025-01-19T03:32:18.000Z"},{"genreId":9,"publicationId":169,"notes":"","createdAt":"2025-01-09T04:23:35.000Z","updatedAt":"2025-01-09T04:23:35.000Z"},{"genreId":9,"publicationId":170,"notes":"","createdAt":"2025-01-09T04:21:39.000Z","updatedAt":"2025-01-09T04:21:39.000Z"},{"genreId":9,"publicationId":172,"notes":"","createdAt":"2025-01-09T04:10:14.000Z","updatedAt":"2025-01-09T04:10:14.000Z"},{"genreId":9,"publicationId":181,"notes":"","createdAt":"2025-01-09T03:35:56.000Z","updatedAt":"2025-01-09T03:35:56.000Z"},{"genreId":9,"publicationId":183,"notes":"","createdAt":"2025-01-09T03:28:04.000Z","updatedAt":"2025-01-09T03:28:04.000Z"},{"genreId":10,"publicationId":18,"notes":"","createdAt":"2025-01-19T03:01:57.000Z","updatedAt":"2025-01-19T03:01:57.000Z"},{"genreId":10,"publicationId":33,"notes":"","createdAt":"2025-01-19T02:33:13.000Z","updatedAt":"2025-01-19T02:33:13.000Z"},{"genreId":10,"publicationId":35,"notes":"","createdAt":"2025-01-19T02:20:49.000Z","updatedAt":"2025-01-19T02:20:49.000Z"},{"genreId":10,"publicationId":89,"notes":"","createdAt":"2025-01-12T14:40:19.000Z","updatedAt":"2025-01-12T14:40:19.000Z"},{"genreId":10,"publicationId":116,"notes":"","createdAt":"2025-01-10T20:04:53.000Z","updatedAt":"2025-01-10T20:04:53.000Z"},{"genreId":10,"publicationId":159,"notes":"","createdAt":"2025-01-09T04:52:32.000Z","updatedAt":"2025-01-09T04:52:32.000Z"},{"genreId":11,"publicationId":58,"notes":"","createdAt":"2025-01-18T03:40:05.000Z","updatedAt":"2025-01-18T03:40:05.000Z"},{"genreId":11,"publicationId":91,"notes":"","createdAt":"2025-01-12T14:36:59.000Z","updatedAt":"2025-01-12T14:36:59.000Z"},{"genreId":11,"publicationId":106,"notes":"","createdAt":"2025-01-11T02:46:18.000Z","updatedAt":"2025-01-11T02:46:18.000Z"},{"genreId":12,"publicationId":63,"notes":"","createdAt":"2025-01-18T03:26:17.000Z","updatedAt":"2025-01-18T03:26:17.000Z"},{"genreId":13,"publicationId":19,"notes":"","createdAt":"2025-01-19T02:56:52.000Z","updatedAt":"2025-01-19T02:56:52.000Z"},{"genreId":13,"publicationId":55,"notes":"","createdAt":"2025-01-18T03:48:24.000Z","updatedAt":"2025-01-18T03:48:24.000Z"},{"genreId":13,"publicationId":97,"notes":"","createdAt":"2025-01-11T03:06:11.000Z","updatedAt":"2025-01-11T03:06:11.000Z"},{"genreId":13,"publicationId":140,"notes":"","createdAt":"2025-01-10T18:57:57.000Z","updatedAt":"2025-01-10T18:57:57.000Z"},{"genreId":13,"publicationId":164,"notes":"","createdAt":"2025-01-09T04:38:56.000Z","updatedAt":"2025-01-09T04:38:56.000Z"},{"genreId":15,"publicationId":25,"notes":"","createdAt":"2025-01-19T02:47:09.000Z","updatedAt":"2025-01-19T02:47:09.000Z"},{"genreId":15,"publicationId":96,"notes":"","createdAt":"2025-01-12T14:24:44.000Z","updatedAt":"2025-01-12T14:24:44.000Z"},{"genreId":15,"publicationId":136,"notes":"","createdAt":"2025-01-10T19:13:02.000Z","updatedAt":"2025-01-10T19:13:02.000Z"},{"genreId":15,"publicationId":138,"notes":"","createdAt":"2025-01-10T19:03:09.000Z","updatedAt":"2025-01-10T19:03:09.000Z"}]
+[
+  {
+    "genreId": 2,
+    "publicationId": 15,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 39,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 63,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 87,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 123,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 128,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 139,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 162,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 2,
+    "publicationId": 168,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 2,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 16,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 17,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 28,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 30,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 31,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 34,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 42,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 43,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 45,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 46,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 48,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 52,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 54,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 55,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 56,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 57,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 64,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 65,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 66,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 70,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 72,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 73,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 77,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 78,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 79,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 80,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 94,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 95,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 98,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 99,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 102,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 107,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 109,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 118,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 119,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 121,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 122,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 124,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:33.000Z",
+    "updatedAt": "2025-05-15T18:05:33.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 125,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 126,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 130,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 132,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 133,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 134,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 135,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 141,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 160,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 163,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 165,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 166,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 3,
+    "publicationId": 182,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 8,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 13,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 14,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 21,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 22,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 26,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 27,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 29,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 35,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 36,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 37,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 38,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 41,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 45,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 47,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 48,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 56,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 61,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 64,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 68,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 84,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 89,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 91,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 92,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 93,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 99,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 103,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 108,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 142,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 143,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 150,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 152,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 155,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 156,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 158,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 159,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 161,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 169,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 176,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 179,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 181,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 4,
+    "publicationId": 184,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 20,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 63,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 74,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 75,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 80,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 90,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 98,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 101,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 115,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 127,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 139,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 146,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 158,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 162,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 5,
+    "publicationId": 167,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 15,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 32,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 40,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 43,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 53,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 60,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 69,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 71,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 76,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 79,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 81,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 82,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 83,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 85,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 86,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 87,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 93,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 100,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 110,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 123,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 151,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 6,
+    "publicationId": 168,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 13,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 68,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 109,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 117,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 129,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 156,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 7,
+    "publicationId": 173,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 9,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 12,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 18,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 23,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 62,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 104,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 144,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 8,
+    "publicationId": 175,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 21,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 24,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 25,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 26,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 44,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 49,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 50,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 59,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 61,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 67,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 75,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 84,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 103,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 105,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 113,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 131,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 136,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 143,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 145,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 152,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 158,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 169,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 170,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 172,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 181,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 9,
+    "publicationId": 183,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 10,
+    "publicationId": 18,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 10,
+    "publicationId": 33,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 10,
+    "publicationId": 35,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 10,
+    "publicationId": 89,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 10,
+    "publicationId": 116,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 10,
+    "publicationId": 159,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 11,
+    "publicationId": 58,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 11,
+    "publicationId": 91,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 11,
+    "publicationId": 106,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 12,
+    "publicationId": 63,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 13,
+    "publicationId": 19,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 13,
+    "publicationId": 55,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 13,
+    "publicationId": 97,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 13,
+    "publicationId": 140,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 13,
+    "publicationId": 164,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 15,
+    "publicationId": 25,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 15,
+    "publicationId": 96,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 15,
+    "publicationId": 136,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  },
+  {
+    "genreId": 15,
+    "publicationId": 138,
+    "notes": "",
+    "createdAt": "2025-05-15T18:05:34.000Z",
+    "updatedAt": "2025-05-15T18:05:34.000Z"
+  }
+]
